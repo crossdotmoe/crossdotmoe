@@ -1,8 +1,8 @@
-### Hola
+### Hola 👋
 
 Thank you for stopping by! I am crossface and I love to make random stuff and learn new things.
 
-Personal Website: https://crossface.cf/ &ensp;&ensp; Discord Server: https://discord.gg/3AxZvGArdm
+Personal Website: https://crossface.cf/ &ensp; Discord Server: https://discord.gg/3AxZvGArdm
 
 ## ✈️ Other Places You Can Find Me
 [<img src="https://abs.twimg.com/responsive-web/web/icon-ios.8ea219d4.png" alt="Twitter" width="48">](https://twitter.com/crossface001)
