@@ -10,4 +10,4 @@ Personal Website: https://crossface.cf/ &ensp; Discord Server: https://discord.g
 [<img src="https://telegram.org/img/t_logo.svg" alt="telegram" width="48">](https://t.me/crossface001)
 [<img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="discord" width="48">](https://discord.com/users/671727555945955358/)
 [<img src="https://anilist.co/img/icons/icon.svg" alt="anilist" width="48">](https://anilist.co/user/crossface001/)
-[<img src="https://cdn1.iconfinder.com/data/icons/outline-imperial-seo/128/SEO_C_50_09.12.14-1_Artboard_15-512.png" alt="email" width="48">](mailto:contact@crossface.cf)
+[<img src="https://cdn2.iconfinder.com/data/icons/buno-ui-interface/32/__email_address_at-256.png" alt="email" width="48">](mailto:contact@crossface.cf)
