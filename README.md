@@ -11,3 +11,5 @@ Personal Website: https://crossface.cf/ &ensp; Discord Server: https://discord.g
 [<img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="discord" width="48">](https://discord.com/users/671727555945955358/)
 [<img src="https://anilist.co/img/icons/icon.svg" alt="anilist" width="48">](https://anilist.co/user/crossface001/)
 [<img src="https://cdn2.iconfinder.com/data/icons/buno-ui-interface/32/__email_address_at-256.png" alt="email" width="48">](mailto:contact@crossface.cf)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcrossface001&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
