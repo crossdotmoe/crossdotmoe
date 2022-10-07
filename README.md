@@ -10,3 +10,4 @@ Discord Server: https://cross.moe/discord/
 [<img src="https://image.myanimelist.net/ui/OK6W_koKDTOqqqLDbIoPAiC8a86sHufn_jOI-JGtoCQ" alt="myanimelist" width="48">](https://myanimelist.net/profile/crossdotmoe)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcrossface001&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![](https://count.getloli.com/get/@crossdotmoe?theme=moebooru)]
