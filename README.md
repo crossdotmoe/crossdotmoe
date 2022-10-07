@@ -1,8 +1,8 @@
-### Hola 👋
+### 👋 Hola 
 
 Thank you for stopping by! I am cross and I love to make random stuff and learn new things.
 
-Discord Server: https://cross.moe/discord/
+Join My Discord Server: https://cross.moe/discord/
 
 ### ✈️ Other Places You Can Find Me
 [<img src="https://telegram.org/img/t_logo.svg" alt="telegram" width="48">](https://t.me/crossdotmoe)
