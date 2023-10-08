@@ -1,4 +1,3 @@
-## Hello
-- Thank you for stopping by! I am cross and I love to make random things and learn new stuff
-- A pseudo-introvert, weeb and tech enthusiast
+- Thank you for stopping by! I am cross; a pseudo-introvert, weeb and tech enthusiast
 - I also enjoy cycling and badminton
+- Fastest way to reach me is through [Discord](https://discord.gg/3AxZvGArdm)
